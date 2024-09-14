@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "radius"
+version = "0.1.0"
+description = ""
+authors = ["Zakariae MOUTAOUAKIL <zakariae.moutaouakil@etu.u-paris.fr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+cvxpy = "^1.5.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
