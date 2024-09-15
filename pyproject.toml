@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 cvxpy = "^1.5.3"
+hyperopt = "^0.2.7"
+setuptools = "^74.1.2"
+statsmodels = "^0.14.2"
 
 
 [build-system]
